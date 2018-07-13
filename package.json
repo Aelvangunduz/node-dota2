@@ -7,7 +7,7 @@
     "merge": "^1.2.0",
     "moment": "^2.22.1",
     "protobufjs": "^6.8.6",
-    "steam": "^1.4.0",
+    "steam": "github:odota/node-steam",
     "winston": "^2.4.2"
   },
   "devDependencies": {
